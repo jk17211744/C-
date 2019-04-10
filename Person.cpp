@@ -29,10 +29,10 @@ int Person::getAge()
 }
 void Person::sayInfo()
 {
-    cout<<"ÎÒÊÇ"<<m_strName<<endl;
-    cout<<"ÎÒ½ñÄê"<<m_iAge<<"Ëê"<<endl;
+    cout<<"æˆ‘æ˜¯"<<m_strName<<endl;
+    cout<<"æˆ‘ä»Šå¹´"<<m_iAge<<"å²"<<endl;
 }
 void Person::sayLanguage()
 {
-    cout<<"ÎÒ»áËµ»°"<<endl;
+    cout<<"æˆ‘ä¼šè¯´è¯"<<endl;
 }
