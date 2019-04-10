@@ -10,6 +10,6 @@ American::American()
 American::~American(){};
 void American::sayLanguage()
 {
-    cout<<"�һ�˵Ӣ��"<<endl;
+    cout<<"我会说英语"<<endl;
 }
 
