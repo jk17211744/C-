@@ -26,7 +26,7 @@ int Chinese::getMoney()
 }
 void Chinese::sayLanguage()
 {
-    cout<<"ÎÒ»áËµººÓï"<<endl;
+    cout<<"æˆ‘ä¼šè¯´æ±‰è¯­"<<endl;
 }
 void Chinese::personallntrouduce()
 {
